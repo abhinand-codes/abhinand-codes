@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Abhinand%20P%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-focused%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Abhinand%20P%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20Backend%20Engineer%20%E2%80%94%20Enterprise%20SaaS%20%26%20Compliance%20Systems&descAlignY=58&descSize=16" width="100%"/>
 
+<a href="https://abhinand-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abhinand-pp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhinand.codes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/32385678/abhinand"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
@@ -27,8 +28,26 @@ system-design skills on the side.
 ## 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=laravel,php,vue,ts,js,mysql,docker,git,github,vscode&theme=dark" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis&theme=dark" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=vue,ts,js,react,tailwind&theme=dark" />
+
+**Tooling & Testing**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vite&theme=dark" />
+
 </div>
+
+<br>
+
+*Also working with:* Stripe & SolidGate payment integrations (employer work), AI-assisted
+development workflows (Claude Code, on personal projects) — not yet reflected in public repos
+above, see [portfolio](https://abhinand-portfolio-six.vercel.app/) for the full picture.
 
 <br>
 
