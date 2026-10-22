@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Abhinand%20P%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20Backend%20Engineer%20-%20Enterprise%20SaaS%20%26%20Compliance%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Abhinand P P — Laravel Backend Engineer, Enterprise SaaS & Compliance Systems"/>
 
 <a href="https://abhinand-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abhinand-pp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5AC8FA&center=true&vCenter=true&width=600&lines=Laravel+%2B+PHP+backend+engineer;Repository+%2B+service+%2B+policy+architecture;Building+enterprise+GRC+%26+SaaS+systems;Open+to+remote+%26+UAE+opportunities" alt="Typing SVG" />
+<img src="assets/tagline.svg" alt="Laravel + PHP backend engineer. Repository + service + policy architecture. Building enterprise GRC and SaaS systems. Open to remote and UAE opportunities." />
 
 </div>
 
@@ -27,16 +27,11 @@ system-design skills on the side.
 
 ## 🛠️ Stack
 
-<div align="center">
-<img src="assets/stack-marquee.svg" width="100%" alt="Scrolling stack: Laravel, PHP, MySQL, Redis, Vue.js, TypeScript, JavaScript, React, Tailwind CSS, Stripe, Docker, Git, GitHub, Vite" />
-</div>
-
-<br>
-
-*Also working with:* SolidGate payment integration (employer work — no public icon set includes
-it, so it's not in the strip above), and AI-assisted development with **Claude Code** on
-personal projects. Neither is reflected in the public repos below yet — see
-[portfolio](https://abhinand-portfolio-six.vercel.app/) for the full picture.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-marquee-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-marquee-light.svg">
+  <img src="assets/stack-marquee-dark.svg" width="100%" alt="Laravel, PHP, MySQL, PostgreSQL, Redis, Vue.js, TypeScript, JavaScript, React, Tailwind CSS, Stripe, Docker, Git, GitHub, Vite, Claude Code" />
+</picture>
 
 <br>
 
@@ -96,5 +91,5 @@ Laravel 12 + Vue 3 blog/content platform with separate admin and reader-facing A
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 </div>

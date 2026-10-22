@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2027"/>
+      <stop offset="0.5" stop-color="#203A43"/>
+      <stop offset="1" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2C5364" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0F2027" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" fill="url(#hbg)"/>
+  <path fill="url(#wave)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,160 C150,190 350,130 500,160 C650,190 850,130 1000,160 L1000,200 L0,200 Z;M0,160 C150,130 350,190 500,160 C650,130 850,190 1000,160 L1000,200 L0,200 Z;M0,160 C150,190 350,130 500,160 C650,190 850,130 1000,160 L1000,200 L0,200 Z"/>
+  </path>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.1s" fill="freeze"/>
+    <text x="50%" y="88" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Abhinand P P</text>
+    <text x="50%" y="124" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#9fd8e8">Laravel Backend Engineer — Enterprise SaaS &amp; Compliance Systems</text>
+  </g>
+</svg>
