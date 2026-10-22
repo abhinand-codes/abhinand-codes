@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Abhinand%20P%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20Backend%20Engineer%20%E2%80%94%20Enterprise%20SaaS%20%26%20Compliance%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Abhinand%20P%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20Backend%20Engineer%20-%20Enterprise%20SaaS%20%26%20Compliance%20Systems&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://abhinand-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abhinand-pp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -28,26 +28,15 @@ system-design skills on the side.
 ## 🛠️ Stack
 
 <div align="center">
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis&theme=dark" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=vue,ts,js,react,tailwind&theme=dark" />
-
-**Tooling & Testing**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vite&theme=dark" />
-
+<img src="assets/stack-marquee.svg" width="100%" alt="Scrolling stack: Laravel, PHP, MySQL, Redis, Vue.js, TypeScript, JavaScript, React, Tailwind CSS, Stripe, Docker, Git, GitHub, Vite" />
 </div>
 
 <br>
 
-*Also working with:* Stripe & SolidGate payment integrations (employer work), AI-assisted
-development workflows (Claude Code, on personal projects) — not yet reflected in public repos
-above, see [portfolio](https://abhinand-portfolio-six.vercel.app/) for the full picture.
+*Also working with:* SolidGate payment integration (employer work — no public icon set includes
+it, so it's not in the strip above), and AI-assisted development with **Claude Code** on
+personal projects. Neither is reflected in the public repos below yet — see
+[portfolio](https://abhinand-portfolio-six.vercel.app/) for the full picture.
 
 <br>
 
