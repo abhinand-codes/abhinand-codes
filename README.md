@@ -19,6 +19,9 @@ platforms used by organizations that can't afford sloppy data or broken permissi
 default architecture is repository + service + policy layers, and I'd rather ship something
 small and correct than something large and fragile.
 
+**Right now:** building enterprise GRC/compliance backends at work, and sharpening CI/CD and
+system-design skills on the side.
+
 <br>
 
 ## 🛠️ Stack
@@ -36,6 +39,7 @@ small and correct than something large and fragile.
 <td width="50%" valign="top">
 
 ### [AI TaskManager](https://github.com/abhinand-codes/ai-taskmanager)
+*Full-stack depth, tested end to end.*
 Laravel 12 + Vue 3/Inertia task manager with AI-generated summaries, full auth, policy-based authorization, and Pest tests.
 
 `Laravel 12` `Vue 3` `Inertia` `Gemini AI` `Pest`
@@ -44,6 +48,7 @@ Laravel 12 + Vue 3/Inertia task manager with AI-generated summaries, full auth, 
 <td width="50%" valign="top">
 
 ### [Dev Decision Journal](https://github.com/abhinand-codes/dev-decision-journal)
+*Real domain logic, not just CRUD.*
 Laravel 12 API for logging decisions and scoring your own calibration against outcomes later.
 
 `Laravel 12` `REST API` `Calibration Scoring`
@@ -54,6 +59,7 @@ Laravel 12 API for logging decisions and scoring your own calibration against ou
 <td width="50%" valign="top">
 
 ### [EcoCart Local](https://github.com/abhinand-codes/eco-local-extension)
+*Shipped outside the Laravel comfort zone.*
 TypeScript/Vue 3 browser extension that finds local shopping alternatives while you browse. Unit + e2e tested.
 
 `TypeScript` `Vue 3` `Playwright` `WebExtension`
@@ -62,6 +68,7 @@ TypeScript/Vue 3 browser extension that finds local shopping alternatives while 
 <td width="50%" valign="top">
 
 ### [ContentFlux](https://github.com/abhinand-codes/contentflux-backend)
+*Role-based access done properly.*
 Laravel 12 + Vue 3 blog/content platform with separate admin and reader-facing APIs.
 
 `Laravel 12` `Vue 3` `Role-based Auth`
@@ -76,7 +83,6 @@ Laravel 12 + Vue 3 blog/content platform with separate admin and reader-facing A
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhinand-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinand-codes&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
 </div>
 
 <br>
